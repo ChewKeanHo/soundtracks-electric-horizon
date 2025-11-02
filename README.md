@@ -1,19 +1,27 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Electric Horizon | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+After all the explorations, it is better we re-visit the main purpose of
+creating video production usable background music specifically dealing with
+uplifting instrumental eletronics genre. Here we are, another track for the
+go.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #upbeat #passionate #instrumental #energetic
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Electric-Horizon.mp3
+  Size: 10248192        Blocks: 20016      IO Block: 4096   regular file
+Access: 2025-11-03 07:01:37.466776980 +0800
+Modify: 2025-11-03 07:01:50.366828409 +0800
+Change: 2025-11-03 07:01:50.366828409 +0800
+ Birth: 2025-07-20 11:53:46.470246334 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-07-17
+On YouTube since : 2025-07-18
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=Hrz4rJh1nlY)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Electric Horizon
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-electric-horizon
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
